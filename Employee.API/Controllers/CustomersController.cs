@@ -80,7 +80,7 @@ namespace Employee.API.Controllers
 
             return CreatedAtAction("GetCustomer", new { id = customer.Id }, customer);
 
-            //anurag
+           
         }
 
         // DELETE: api/Customers/5
