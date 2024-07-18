@@ -10,7 +10,6 @@ namespace Employee.API.Data
         {
         }
 
-        public DbSet<User> Users { get; set; }
         public DbSet<Customer> Customers { get; set; }
         // commet
        //anurag
