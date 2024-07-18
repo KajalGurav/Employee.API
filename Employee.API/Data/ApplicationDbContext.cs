@@ -12,10 +12,6 @@ namespace Employee.API.Data
 
         public DbSet<Customer> Customers { get; set; }
         // commet
-       //anurag
-
-        //23456
-
-        //Rocky
+      
     }
 }
